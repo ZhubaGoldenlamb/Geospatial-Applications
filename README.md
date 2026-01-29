@@ -13,7 +13,7 @@ This repository documents an applied application-development project integrating
 - **Survey123 Form:**  
   [View Survey Form](https://survey123.arcgis.com/share/e67d65f4376440c0b955b1871b9a5dfd?portalUrl=https://csulb.maps.arcgis.com)
 
-- **Power BI Dashboard (PDF export):**  
+- **Power BI Dashboard:**  
  [View Comprehensive PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzY4NzdmMDMtNDllNy00ZDkwLThiYTEtMjY0MTYzMjE5ODFjIiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9&embedImagePlaceholder=true)
 
 ---
